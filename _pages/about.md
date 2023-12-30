@@ -1,3 +1,10 @@
+---
+permalink: /
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # About me
 I'm a junior student (2021.09 - present) studying Computer Science at South China Agricultural University. My research interests consist of spoken language understanding (SLU), large language models (LLM), and multimodal natural language processing (NLP).
 
