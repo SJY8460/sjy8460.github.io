@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shangjian Yin's Personal Homepage’"
+title                    : "Homepage’"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -86,7 +86,7 @@ author:
   location         : "China Guangdong"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&authuser=1&gmla=AH70aAWqCAaygHXPQqWjcyEVSl3JLGvNR0p4kfHJePoe4rP922TxFdEo1-Y4F5v93wYTwjAEu3jZmTf-T1bwfpIVxgM&user=_K2ICQkAAAAJ # "http://yourfullgooglescholarurl.com"
   email            :  "sjy8460@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
