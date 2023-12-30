@@ -1,11 +1,14 @@
 ---
 permalink: /
+title: ""
+excerpt: ""
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# About me
+# Introduction
 I'm a junior student (2021.09 - present) studying Computer Science at South China Agricultural University. My research interests consist of spoken language understanding (SLU), large language models (LLM), and multimodal natural language processing (NLP).
 
 I am privileged to be mentored by Associate Professor Peijie Huang and Associate Professor Yuhong Xu at the School of Mathematics and Informatics, South China Agricultural University.
