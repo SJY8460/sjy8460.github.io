@@ -15,7 +15,7 @@ I am privileged to be mentored by Associate Professor Peijie Huang and Associate
 
 You can find my CV here: [CV](../files/cv.pdf).
 
- # Publications📝
+ # Publications
 
 -  [A Multi-Intent Fusion Framework for Joint Intent Detection and Slot Filling](https://aclanthology.org/2023.ccl-1.5.pdf) <br>
   In Proceedings of CCL, 2023. <br>
