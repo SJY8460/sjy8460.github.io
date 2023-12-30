@@ -11,4 +11,4 @@ I'm a junior student studying Computer Science at South China Agricultural Unive
 
 I am privileged to be mentored by Associate Professor Peijie Huang and Associate Professor Yuhong Xu at the School of Mathematics and Informatics, South China Agricultural University.
 
-[Email](sjy8460@163.com) / [Github](https://github.com/SJY8460)
+[Email](mailto:sjy8460@163.com) / [Github](https://github.com/SJY8460)
