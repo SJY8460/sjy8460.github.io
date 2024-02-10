@@ -1,7 +1,6 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,9 +15,14 @@ I am privileged to be mentored by Associate Professor Peijie Huang and Associate
 
 # Publications📝
 
--  [A Multi-Intent Fusion Framework for Joint Intent Detection and Slot Filling](https://aclanthology.org/2023.ccl-1.5.pdf) <br>
-  In Proceedings of CCL, 2023. <br>
-  **Shangjian Yin**, Peijie Huang, Dongzhu Liang, Zhuoqi He, Qianer Li, Yuhong Xu <br>
+1. **Shangjian Yin**, Peijie Huang*, Yuhong Xu.
+   *“Uni-MIS: United Multiple Intent Spoken Language Understanding via Multi-View Intent-Slot Interaction”*.
+   *The 38th Annual AAAI Conference on Artificial Intelligence, Main Conference* (AAAI 2024). 
+  
+2. **Shangjian Yin**, Peijie Huang*, Dongzhu Liang, Zhuoqi He, Qianer Li, Yuhong Xu.
+   *“A Multi-Intent Fusion Framework for Joint Intent Detection and Slot Filling”*.
+   *Journal of Chinese Information Processing*. Recommended from proceedings of *the 23th China National Conference on Computational Linguistics, Main Conference* (CCL 2023).
+
 
 You can find my CV here: [CV](../files/cv.pdf).
 
