@@ -24,5 +24,5 @@ I am privileged to be mentored by Associate Professor Peijie Huang and Associate
    *Journal of Chinese Information Processing*. Recommended from proceedings of *the 23th China National Conference on Computational Linguistics, Main Conference* (CCL 2023).
 
 
-You can find my CV here: [CV](../files/cv.pdf).
+You can find my CV here: [CV](../files/My_CV.pdf).
 
