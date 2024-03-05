@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : #"Shangjian Yin"
-  avatar           : "peo.jpg"
-  bio              : "I'm a junior student studying Computer Science at South China Agricultural University. My research interest consists of SLU, LLM, and multimodal NLP."
+  avatar           : "profile_peo.jpg"
+  bio              : A junior student studying Computer Science at South China Agricultural University. My research interest consists of SLU, LLM, and multimodal NLP.
   location         : "Guangdong, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
