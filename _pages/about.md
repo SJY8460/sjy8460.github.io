@@ -28,5 +28,5 @@ I am privileged to be mentored by Associate Professor Peijie Huang and Associate
    *Engineering Applications of Artificial Intelligence*.
 
 
-You can find my CV here: [CV](../files/CV.pdf).
+You can find my CV here: [CV](../files/cv.pdf).
 
