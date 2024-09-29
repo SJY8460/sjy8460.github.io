@@ -21,9 +21,9 @@ I am privileged to be mentored by Associate Professor Peijie Huang and Associate
   
 2. **Shangjian Yin**, Peijie Huang*, Dongzhu Liang, Zhuoqi He, Qianer Li, Yuhong Xu.
    *“A Multi-Intent Fusion Framework for Joint Intent Detection and Slot Filling”*.
-   *Journal of Chinese Information Processing*. Recommended from proceedings of *the 23th China National Conference on Computational Linguistics, Main Conference* (CCL 2023).\
+   *Journal of Chinese Information Processing*. Recommended from proceedings of *the 23th China National Conference on Computational Linguistics, Main Conference* (CCL 2023).
 
-3. **Qianer Li**, Peijie Huang, Yuhong Xu, Jiawei Chen, Yuyang Deng, \underline{Shangjian Yin}.
+3. Qianer Li, Peijie Huang, Yuhong Xu, Jiawei Chen, Yuyang Deng, **Shangjian Yin**.
    *“Generating and Encouraging: An Effective Framework for Solving Class Imbalance in Multimodal Emotion Recognition Conversation”*.
    *Engineering Applications of Artificial Intelligence*.
 
