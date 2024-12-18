@@ -17,28 +17,41 @@ Previously, my research interests focused on spoken language understanding (SLU)
 2. **Small Language Models**: Enabling human-level AI for local use.  
 3. **Multimodal LLMs**: Integrating multiple modalities into a unified framework.  
 
-I previously served as a research assistant under the mentorship of Associate Professor **[Peijie Huang](https://dblp.org/pid/24/1023.html)** and **[Yuhong Xu](https://www.researchgate.net/profile/Yuhong-Xu-5)** at SCAU, where my research focused on SLU. Currently, I am interning at the University of Virginia under the guidance of Assistant Professor **[Yu Meng](https://yumeng5.github.io/)**, working on efficient LLMs. I am deeply grateful for their invaluable support throughout my academic journey!
+<!-- I previously served as a research assistant under the mentorship of Associate Professor **[Peijie Huang](https://dblp.org/pid/24/1023.html)** and **[Yuhong Xu](https://www.researchgate.net/profile/Yuhong-Xu-5)** at SCAU, where my research focused on SLU. Currently, I am interning at the University of Virginia under the guidance of Assistant Professor **[Yu Meng](https://yumeng5.github.io/)**, working on efficient LLMs. I am deeply grateful for their invaluable support throughout my academic journey! -->
 
 ---
 
 
+# 🧑‍💻 Research Experience
+
+**Research Assistant**, South China Agricultural University  
+*April 2022 - May 2024*  
+Supervisors: Associate Professors Peijie Huang and Yuhong Xu
+
+**Research Intern**, The University of Virginia  
+*June 2024 - Present*  
+Supervisor: Assistant Professor Yu Meng
+
+I am deeply grateful for their invaluable support throughout my academic journey!
+
+---
 # 📝 Publications  
 
 1. **Shangjian Yin**, Peijie Huang, Yuhong Xu.  
    **“MIDLM: Multi-Intent Detection with Bidirectional Large Language Models”**  
-   The 31st International Conference on Computational Linguistics. (COLING'25)  
+   *The 31st International Conference on Computational Linguistics* (COLING'25)
 
 2. **Shangjian Yin**, Peijie Huang, Yuhong Xu.  
    **“Uni-MIS: United Multiple Intent Spoken Language Understanding via Multi-View Intent-Slot Interaction”**  
-   The 38th AAAI Conference on Artificial Intelligence. (AAAI'24)  
+   *The 38th AAAI Conference on Artificial Intelligence* (AAAI'24)
 
 3. **Shangjian Yin**, Peijie Huang, Dongzhu Liang, Zhuoqi He, Qianer Li, Yuhong Xu.  
    **“A Multi-Intent Fusion Framework for Joint Intent Detection and Slot Filling”**  
-   The 23rd China National Conference on Computational Linguistics. (CCL'23)  
+   *The 23rd China National Conference on Computational Linguistics* (CCL'23)
 
-4. Zhanbiao Zhu, Peijie Huang, Haojing Huang, Yuhong Xu, Piyuan Lin, Leyi Lao, Shaoshen Chen,Haojie Xie, **Shangjian Yin**.
+4. Zhanbiao Zhu, Peijie Huang, Haojing Huang, Yuhong Xu, Piyuan Lin, Leyi Lao, Shaoshen Chen, Haojie Xie, **Shangjian Yin**.  
    **“ELSF: Entity-Level Slot Filling Framework for Joint Multiple Intent Detection and Slot Filling”**  
-   *IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)*  
+   *IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)*
 
 5. Qianer Li, Peijie Huang, Yuhong Xu, Jiawei Chen, Yuyang Deng, **Shangjian Yin**.  
    **“Generating and Encouraging: An Effective Framework for Solving Class Imbalance in Multimodal Emotion Recognition Conversation”**  
@@ -49,19 +62,19 @@ I previously served as a research assistant under the mentorship of Associate Pr
 # 📄 Under Review  
 
 1. **Shangjian Yin**, Zhepei Wei, Xinyu Zhu, Wei-Lin Chen, Yu Meng.  
-   **“Self-Alignment Optimization for Language Models”**  
+   **“Self-Alignment Optimization for Language Models”**
 
 2. **Shangjian Yin**, Peijie Huang, Xinming Chen, Yuhong Xu.  
-   **“Bidirectional Large Language Model for Multi-Task Understanding”**  
+   **“Bidirectional Large Language Model for Multi-Task Understanding”**
 
 3. **Shangjian Yin**, Peijie Huang, Yuhong Xu, Haojing Huang, Jiatian Chen.  
-   **“ECLM: Entity-Level Large Language Model for Spoken Language Understanding with Chain of Intent”**  
+   **“ECLM: Entity-Level Large Language Model for Spoken Language Understanding with Chain of Intent”**
 
 4. Zhanbiao Zhu, Peijie Huang, **Shangjian Yin**, Qianer Li, Yuhong Xu.  
-   **“Joint-Span: Unified Span-Level Joint Model for Multiple Intent Detection and Slot Filling”**  
+   **“Joint-Span: Unified Span-Level Joint Model for Multiple Intent Detection and Slot Filling”**
 
 5. Dongzhu Liang, Peijie Huang, Jiaying Liu, Shaoshen Chen, **Shangjian Yin**, Yuhong Xu.  
-   **“SpanAL: Span Anchor Learning Framework for Spoken Language Understanding”**  
+   **“SpanAL: Span Anchor Learning Framework for Spoken Language Understanding”**
 
 ---
 
