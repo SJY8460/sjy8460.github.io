@@ -23,22 +23,19 @@ I am honored to be mentored by **[Peijie Huang](https://dblp.org/pid/24/1023.htm
 
 # 📝 Publications  
 
-### Peer-Reviewed  
-
 1. **Shangjian Yin**, Peijie Huang, Yuhong Xu.  
    **“MIDLM: Multi-Intent Detection with Bidirectional Large Language Models”**  
-   The 31st International Conference on Computational Linguistics, Main Conference. (COLING 2025)  
+   The 31st International Conference on Computational Linguistics, Main Conference. (COLING'25)  
 
 2. **Shangjian Yin**, Peijie Huang, Yuhong Xu.  
    **“Uni-MIS: United Multiple Intent Spoken Language Understanding via Multi-View Intent-Slot Interaction”**  
-   The 38th AAAI Conference on Artificial Intelligence, Main Conference. (AAAI 2024)  
+   The 38th AAAI Conference on Artificial Intelligence, Main Conference. (AAAI'24)  
 
 3. **Shangjian Yin**, Peijie Huang, Dongzhu Liang, Zhuoqi He, Qianer Li, Yuhong Xu.  
    **“A Multi-Intent Fusion Framework for Joint Intent Detection and Slot Filling”**  
-   The 23rd China National Conference on Computational Linguistics, Main Conference. (CCL 2023)  
+   The 23rd China National Conference on Computational Linguistics, Main Conference. (CCL'23)  
 
-4. Zhanbiao Zhu, Peijie Huang, Haojing Huang, Yuhong Xu, Piyuan Lin, Leyi Lao, Shaoshen Chen, Haojie Xie,  
-   **Shangjian Yin**.  
+4. Zhanbiao Zhu, Peijie Huang, Haojing Huang, Yuhong Xu, Piyuan Lin, Leyi Lao, Shaoshen Chen,     Haojie Xie, **Shangjian Yin**. 
    **“ELSF: Entity-Level Slot Filling Framework for Joint Multiple Intent Detection and Slot Filling”**  
    *IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)*  
 
@@ -76,7 +73,6 @@ Reviewer for:
 - ICLR’25  
 
 ---
-
 # 📧 Contact  
 
 Email: sjy8460[at]163[dot]com  
