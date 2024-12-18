@@ -9,7 +9,7 @@ redirect_from:
 
 # 🌟 Introduction  
 
-Hi all! My name is **Shangjian Yin**, an undergraduate student majoring in Computer Science at South China Agricultural University (Sep. 2021 - Jun. 2025). I am currently seeking Fall 2025 CS PhD opportunities! You can find my CV here: [CV](../files/my_cv.pdf).  
+Hi all! My name is Shangjian Yin, an undergraduate student majoring in Computer Science at South China Agricultural University (Sep. 2021 - Jun. 2025). I am currently seeking Fall 2025 CS PhD opportunities! You can find my CV here: [CV](../files/my_cv.pdf).  
 
 Previously, my research interests focused on spoken language understanding (SLU) and its integration with large language models (LLMs). Currently, I am exploring the following areas:  
 
@@ -90,5 +90,7 @@ Reviewer for:
 # 📧 Contact  
 
 Email: sjy8460[at]163[dot]com  
+
+---
 
 _Last update: 12/18/2024_  
