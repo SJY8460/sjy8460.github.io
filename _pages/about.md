@@ -17,7 +17,7 @@ Previously, my research interests focused on spoken language understanding (SLU)
 2. **Small Language Models**: Enabling human-level AI for local use.  
 3. **Multimodal LLMs**: Integrating multiple modalities into a unified framework.  
 
-I previously served as a research assistant under the mentorship of Associate Professor **[Peijie Huang](https://dblp.org/pid/24/1023.html)** and **[Yuhong Xu](https://www.researchgate.net/profile/Yuhong-Xu-5)** at SCAU, where my research centered on SLU. Currently, I am interning at the University of Virginia, working with Assistant Professor **[Yu Meng](https://yumeng5.github.io/)** on research focused on efficient LLMs.
+I previously served as a research assistant under the mentorship of Associate Professor **[Peijie Huang](https://dblp.org/pid/24/1023.html)** and **[Yuhong Xu](https://www.researchgate.net/profile/Yuhong-Xu-5)** at SCAU, where my research focused on SLU. Currently, I am interning at the University of Virginia under the guidance of Assistant Professor **[Yu Meng](https://yumeng5.github.io/)**, working on efficient LLMs. I am deeply grateful for their invaluable support throughout my academic journey!
 
 ---
 
@@ -36,8 +36,7 @@ I previously served as a research assistant under the mentorship of Associate Pr
    **“A Multi-Intent Fusion Framework for Joint Intent Detection and Slot Filling”**  
    The 23rd China National Conference on Computational Linguistics. (CCL'23)  
 
-4. Zhanbiao Zhu, Peijie Huang, Haojing Huang, Yuhong Xu, Piyuan Lin, Leyi Lao, Shaoshen Chen,Haojie Xie, **Shangjian Yin**. 
-   
+4. Zhanbiao Zhu, Peijie Huang, Haojing Huang, Yuhong Xu, Piyuan Lin, Leyi Lao, Shaoshen Chen,Haojie Xie, **Shangjian Yin**.
    **“ELSF: Entity-Level Slot Filling Framework for Joint Multiple Intent Detection and Slot Filling”**  
    *IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)*  
 
