@@ -7,7 +7,7 @@
 
 # Site Settings
 locale: "en-US"
-title: "Shangjian Yin"
+title: "Homepage"
 title_separator: "-"
 name: &name "Your Name"
 description: &description "personal description"
@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name: #"Shangjian Yin"
+  name: Shangjian Yin (尹商鉴)
   avatar: "profile_peo.png"
-  bio: Shangjian Yin (尹商鉴)
+  bio: #Shangjian Yin (尹商鉴)
   location: "Guangdong, China"
   employer:
   pubmed: # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
