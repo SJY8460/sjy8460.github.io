@@ -26,11 +26,11 @@ Previously, my research interests focused on spoken language understanding (SLU)
 
 **Research Assistant**, South China Agricultural University  
 *April 2022 - May 2024*  
-Supervisors: Associate Professors Peijie Huang and Yuhong Xu
+Supervisors: Associate Professors **[Peijie Huang](https://dblp.org/pid/24/1023.html)** and **[Yuhong Xu](https://www.researchgate.net/profile/Yuhong-Xu-5)**
 
 **Research Intern**, The University of Virginia  
 *June 2024 - Present*  
-Supervisor: Assistant Professor Yu Meng
+Supervisor: Assistant Professor **[Yu Meng](https://yumeng5.github.io/)**
 
 I am deeply grateful for their invaluable support throughout my academic journey!
 
