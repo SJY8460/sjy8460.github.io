@@ -17,25 +17,26 @@ Previously, my research interests focused on spoken language understanding (SLU)
 2. **Small Language Models**: Enabling human-level AI for local use.  
 3. **Multimodal LLMs**: Integrating multiple modalities into a unified framework.  
 
-I am honored to be mentored by **[Peijie Huang](https://dblp.org/pid/24/1023.html)** and **[Yuhong Xu](https://www.researchgate.net/profile/Yuhong-Xu-5)** at the Language Intelligence Lab, SCAU. Additionally, I am currently an intern at the University of Virginia, advised by **[Yu Meng](https://yumeng5.github.io/)**.  
+I previously served as a research assistant under the mentorship of Associate Professor **[Peijie Huang](https://dblp.org/pid/24/1023.html)** and **[Yuhong Xu](https://www.researchgate.net/profile/Yuhong-Xu-5)** at SCAU, where my research centered on SLU. Currently, I am interning at the University of Virginia, working with Assistant Professor **[Yu Meng](https://yumeng5.github.io/)** on research focused on efficient LLMs.
 
 ---
+
 
 # 📝 Publications  
 
 1. **Shangjian Yin**, Peijie Huang, Yuhong Xu.  
    **“MIDLM: Multi-Intent Detection with Bidirectional Large Language Models”**  
-   The 31st International Conference on Computational Linguistics, Main Conference. (COLING'25)  
+   The 31st International Conference on Computational Linguistics. (COLING'25)  
 
 2. **Shangjian Yin**, Peijie Huang, Yuhong Xu.  
    **“Uni-MIS: United Multiple Intent Spoken Language Understanding via Multi-View Intent-Slot Interaction”**  
-   The 38th AAAI Conference on Artificial Intelligence, Main Conference. (AAAI'24)  
+   The 38th AAAI Conference on Artificial Intelligence. (AAAI'24)  
 
 3. **Shangjian Yin**, Peijie Huang, Dongzhu Liang, Zhuoqi He, Qianer Li, Yuhong Xu.  
    **“A Multi-Intent Fusion Framework for Joint Intent Detection and Slot Filling”**  
-   The 23rd China National Conference on Computational Linguistics, Main Conference. (CCL'23)  
+   The 23rd China National Conference on Computational Linguistics. (CCL'23)  
 
-4. Zhanbiao Zhu, Peijie Huang, Haojing Huang, Yuhong Xu, Piyuan Lin, Leyi Lao, Shaoshen Chen,     Haojie Xie, **Shangjian Yin**. 
+4. Zhanbiao Zhu, Peijie Huang, Haojing Huang, Yuhong Xu, Piyuan Lin, Leyi Lao, Shaoshen Chen,Haojie Xie, **Shangjian Yin**. 
    **“ELSF: Entity-Level Slot Filling Framework for Joint Multiple Intent Detection and Slot Filling”**  
    *IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)*  
 
