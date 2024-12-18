@@ -37,12 +37,13 @@ I previously served as a research assistant under the mentorship of Associate Pr
    The 23rd China National Conference on Computational Linguistics. (CCL'23)  
 
 4. Zhanbiao Zhu, Peijie Huang, Haojing Huang, Yuhong Xu, Piyuan Lin, Leyi Lao, Shaoshen Chen,Haojie Xie, **Shangjian Yin**. 
+   
    **“ELSF: Entity-Level Slot Filling Framework for Joint Multiple Intent Detection and Slot Filling”**  
    *IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)*  
 
 5. Qianer Li, Peijie Huang, Yuhong Xu, Jiawei Chen, Yuyang Deng, **Shangjian Yin**.  
    **“Generating and Encouraging: An Effective Framework for Solving Class Imbalance in Multimodal Emotion Recognition Conversation”**  
-   *Engineering Applications of Artificial Intelligence*  
+   *Engineering Applications of Artificial Intelligence (EAAI)*  
 
 ---
 
