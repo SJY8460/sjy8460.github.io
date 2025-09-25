@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shangjian Yin"
+# title: "Shangjian Yin"
 author_profile: true
 redirect_from: 
   - /about/
