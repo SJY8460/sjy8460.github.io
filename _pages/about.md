@@ -32,7 +32,7 @@ p, li {
 
 # 🌟 Introduction  
 
-Hi all! My name is Shangjian Yin. I am a CS Ph.D. student at the University of California, Riverside (UCR) (Sep. 2025 – Present), advised by Prof. Zhouxing Shi. I received my B.S. in Computer Science from SCAU (Jun. 2025). I am actively seeking Summer 2026 internship opportunities!  
+Hi all! My name is Shangjian Yin. I am a CS Ph.D. student at the University of California, Riverside, advised by Prof. Zhouxing Shi. I received my B.S. in Computer Science from SCAU. I am actively seeking Summer 2026 internship opportunities!  
 
 <a href="../files/CV_PhD.pdf" class="cv-button">📄 View My CV</a>  
 
