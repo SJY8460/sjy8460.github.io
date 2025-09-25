@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Shangjian Yin"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,88 +9,96 @@ redirect_from:
 
 # 🌟 Introduction  
 
-Hi all! My name is Shangjian Yin, an undergraduate student majoring in Computer Science at South China Agricultural University (Sep. 2021 - Jun. 2025). I am currently seeking Fall 2025 CS PhD opportunities! You can find my CV here: [CV](../files/my_cv.pdf).  
+Hi all! My name is **Shangjian Yin**. I am a CS Ph.D. student at the **University of California, Riverside (UCR)** (Sep. 2025 – Present), advised by **Prof. Zhouxing Shi**.  
 
-Previously, my research interests focused on spoken language understanding (SLU) and its integration with large language models (LLMs). Currently, I am exploring the following areas:  
+I received my B.S. in Computer Science from **South China Agricultural University (SCAU)** (Sep. 2021 – Jun. 2025).  
 
-1. **Data-Driven LLMs**: Unleashing the power of synthetic data.  
-2. **Small Language Models**: Enabling human-level AI for local use.  
-3. **Multimodal LLMs**: Integrating multiple modalities into a unified framework.  
+📄 You can find my CV here: [CV](../files/CV_PhD.pdf).  
 
-<!-- I previously served as a research assistant under the mentorship of Associate Professor **[Peijie Huang](https://dblp.org/pid/24/1023.html)** and **[Yuhong Xu](https://www.researchgate.net/profile/Yuhong-Xu-5)** at SCAU, where my research focused on SLU. Currently, I am interning at the University of Virginia under the guidance of Assistant Professor **[Yu Meng](https://yumeng5.github.io/)**, working on efficient LLMs. I am deeply grateful for their invaluable support throughout my academic journey! -->
+My current research interests include:  
+
+1. **LLM Alignment**: Post-training alignment, RLHF, and self-alignment optimization.  
+2. **Synthetic Data for LLMs**: Expert-level data generation for alignment.  
+4. **Multimodal & Efficient LLMs**: Towards lightweight and universal AI systems.  
 
 ---
 
+# 🧑‍💻 Experience  
 
-# 🧑‍💻 Research Experience
+**Graduate Student Researcher**, University of California, Riverside  
+*Sep. 2025 – Present*  
+Advisor: Prof. **Zhouxing Shi**
+
+**Research Intern**, Microsoft AI Asia (Beijing)  
+*Apr. 2025 – Sep. 2025*  
+Mentor: **Shining Liang**
+
+**Research Intern**, University of Virginia (Remote)  
+*Jun. 2024 – Feb. 2025*  
+Advisor: Prof. **Yu Meng**
 
 **Research Assistant**, South China Agricultural University  
-*April 2022 - May 2024*  
-Supervisors: Associate Professors **[Peijie Huang](https://dblp.org/pid/24/1023.html)** and **[Yuhong Xu](https://www.researchgate.net/profile/Yuhong-Xu-5)**
-
-**Research Intern**, The University of Virginia  
-*June 2024 - Present*  
-Supervisor: Assistant Professor **[Yu Meng](https://yumeng5.github.io/)**
-
-I am deeply grateful for their invaluable support throughout my academic journey!
+*Apr. 2022 – May 2024*  
+Advisors: Associate Profs. **Peijie Huang** and **Yuhong Xu**
 
 ---
+
 # 📝 Publications  
 
-1. **Shangjian Yin**, Peijie Huang, Yuhong Xu.  
-   **“MIDLM: Multi-Intent Detection with Bidirectional Large Language Models”**  
-   *The 31st International Conference on Computational Linguistics* (COLING'25)
+### LLM Alignment & Effective Data Synthesis  
+- **Shangjian Yin**, Shining Liang, Wenbiao Ding, Yuli Qian, Zhouxing Shi, Honghli Li, Yutao Xie.  
+  *PIKA: Expert-Level Synthetic Datasets for Post-Training Alignment from Scratch*. **Under Review, 2025**  
 
-2. **Shangjian Yin**, Peijie Huang, Yuhong Xu.  
-   **“Uni-MIS: United Multiple Intent Spoken Language Understanding via Multi-View Intent-Slot Interaction”**  
-   *The 38th AAAI Conference on Artificial Intelligence* (AAAI'24)
+- **Shangjian Yin**, Shining Liang, Wenbiao Ding, Yuli Qian, Zhouxing Shi, Honghli Li, Yutao Xie.  
+  *WorldAlignment: Benchmarking Expert-Level Human Preference Alignment across Domains and Aspects*. **Under Review, 2025**  
 
-3. **Shangjian Yin**, Peijie Huang, Dongzhu Liang, Zhuoqi He, Qianer Li, Yuhong Xu.  
-   **“A Multi-Intent Fusion Framework for Joint Intent Detection and Slot Filling”**  
-   *The 23rd China National Conference on Computational Linguistics* (CCL'23)
+- **Shangjian Yin**, Zhepei Wei, Xinyu Zhu, Wei-Lin Chen, Yu Meng.  
+  *Align Large Language Model with Human Preference via Extremely Self-Synthetic Data*. **Under Review, 2025**  
 
-4. Zhanbiao Zhu, Peijie Huang, Haojing Huang, Yuhong Xu, Piyuan Lin, Leyi Lao, Shaoshen Chen, Haojie Xie, **Shangjian Yin**.  
-   **“ELSF: Entity-Level Slot Filling Framework for Joint Multiple Intent Detection and Slot Filling”**  
-   *IEEE/ACM Transactions on Audio, Speech, and Language Processing (TASLP)*
+### LLM for Language Understanding & SLU  
+- **Shangjian Yin**, Peijie Huang, Yuhong Xu, Haojing Huang, Jiatian Chen.  
+  *ECLM: Entity-Level Large Language Model for Spoken Language Understanding with Chain of Intent*. **ACL’25**  
 
-5. Qianer Li, Peijie Huang, Yuhong Xu, Jiawei Chen, Yuyang Deng, **Shangjian Yin**.  
-   **“Generating and Encouraging: An Effective Framework for Solving Class Imbalance in Multimodal Emotion Recognition Conversation”**  
-   *Engineering Applications of Artificial Intelligence (EAAI)*  
+- **Shangjian Yin**, Peijie Huang, Yuhong Xu.  
+  *MIDLM: Multi-Intent Detection with Bidirectional Large Language Models*. **COLING’25**  
 
----
+- **Shangjian Yin**, Peijie Huang, Yuhong Xu.  
+  *Uni-MIS: United Multiple Intent SLU via Multi-View Intent-Slot Interaction*. **AAAI’24**  
 
-# 📄 Under Review  
+- **Shangjian Yin**, Peijie Huang, Dongzhu Liang, Zhuoqi He, Qianer Li, Yuhong Xu.  
+  *A Multi-Intent Fusion Framework for Joint Intent Detection and Slot Filling*. **CCL’23**  
 
-1. **Shangjian Yin**, Zhepei Wei, Xinyu Zhu, Wei-Lin Chen, Yu Meng.  
-   **“Self-Alignment Optimization for Language Models”**
+- Zhanbiao Zhu, Peijie Huang, Haojing Huang, … , **Shangjian Yin**.  
+  *ELSF: Entity-Level Slot Filling Framework for Joint Multiple Intent Detection and Slot Filling*. **TASLP’24**  
 
-2. **Shangjian Yin**, Peijie Huang, Xinming Chen, Yuhong Xu.  
-   **“Bidirectional Large Language Model for Multi-Task Understanding”**
-
-3. **Shangjian Yin**, Peijie Huang, Yuhong Xu, Haojing Huang, Jiatian Chen.  
-   **“ECLM: Entity-Level Large Language Model for Spoken Language Understanding with Chain of Intent”**
-
-4. Zhanbiao Zhu, Peijie Huang, **Shangjian Yin**, Qianer Li, Yuhong Xu.  
-   **“Joint-Span: Unified Span-Level Joint Model for Multiple Intent Detection and Slot Filling”**
-
-5. Dongzhu Liang, Peijie Huang, Jiaying Liu, Shaoshen Chen, **Shangjian Yin**, Yuhong Xu.  
-   **“SpanAL: Span Anchor Learning Framework for Spoken Language Understanding”**
+- Qianer Li, Peijie Huang, Yuhong Xu, Jiawei Chen, Yuyang Deng, **Shangjian Yin**.  
+  *Generating and Encouraging: An Effective Framework for Solving Class Imbalance in Multimodal Emotion Recognition Conversation*. **EAAI’24**  
 
 ---
 
-# 🛠️ Service  
+# 🛠️ Academic Activities  
 
-Reviewer for:  
-- NLPCC’24  
-- EMNLP’24  
-- COLING’25  
-- ICLR’25  
+- Conference presentations: CCL’23 (Harbin, China), AAAI’24 (Vancouver, Canada).  
+- Reviewer for: NLPCC’24, EMNLP’24, COLING’25, ICLR’25, AAAI’26, ICLR’26.  
 
 ---
+
+# 🏅 Awards & Honors  
+
+- Departmental Fellowship, UC Riverside (Sep. 2025)  
+- Third Scholarship, SCAU (Oct. 2023)  
+- First Prize, 14th Blue Bridge Cup National Competition (May 2023)  
+- Third Prize, Market Research and Analysis Competition (Apr. 2023)  
+- Second Prize, Greater Bay Area Cup Financial Mathematics Modeling (Dec. 2022)  
+- Third Prize, National College Students’ Mathematics Modeling Competition (Sep. 2022)  
+
+---
+
 # 📧 Contact  
 
-Email: sjy8460[at]163[dot]com  
+📩 Email: sjy8460[at]163[dot]com  
+📞 Phone: (+1) 951-830-7345  
 
 ---
 
-_Last update: 12/18/2024_  
+_Last update: Sep. 25, 2025_  
