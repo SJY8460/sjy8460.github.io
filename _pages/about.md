@@ -7,39 +7,56 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+/* 两端对齐正文 */
+p, li {
+  text-align: justify;
+  text-justify: inter-word;
+}
+/* 简历按钮样式 */
+.cv-button {
+  display: inline-block;
+  padding: 6px 12px;
+  margin-top: 8px;
+  font-size: 14px;
+  font-weight: 600;
+  color: white;
+  background-color: #007ACC;
+  border-radius: 6px;
+  text-decoration: none;
+}
+.cv-button:hover {
+  background-color: #005F99;
+}
+</style>
+
 # 🌟 Introduction  
 
-Hi all! My name is **Shangjian Yin**. I am a CS Ph.D. student at the **University of California, Riverside (UCR)** (Sep. 2025 – Present), advised by **Prof. Zhouxing Shi**.  
+Hi all! My name is **Shangjian Yin**. I am a CS Ph.D. student at the **University of California, Riverside (UCR)** (Sep. 2025 – Present), advised by **Prof. Zhouxing Shi**. I received my B.S. in Computer Science from **SCAU** (Jun. 2025). I am actively seeking **Summer 2026 internship opportunities**!  
 
-I received my B.S. in Computer Science from **South China Agricultural University (SCAU)** (Sep. 2021 – Jun. 2025).  
-
-📄 You can find my CV here: [CV](../files/CV_PhD.pdf).  
+<a href="../files/CV_PhD.pdf" class="cv-button">📄 View My CV</a>  
 
 My current research interests include:  
 
 1. **LLM Alignment**: Post-training alignment, RLHF, and self-alignment optimization.  
 2. **Synthetic Data for LLMs**: Expert-level data generation for alignment.  
-4. **Multimodal & Efficient LLMs**: Towards lightweight and universal AI systems.  
+3. **Multimodal & Efficient LLMs**: Towards lightweight and universal AI systems.  
 
 ---
 
 # 🧑‍💻 Experience  
 
 **Graduate Student Researcher**, University of California, Riverside  
-*Sep. 2025 – Present*  
-Advisor: Prof. **Zhouxing Shi**
+*Sep. 2025 – Present* — Advisor: Prof. **Zhouxing Shi**  
 
 **Research Intern**, Microsoft AI Asia (Beijing)  
-*Apr. 2025 – Sep. 2025*  
-Mentor: **Shining Liang**
+*Apr. 2025 – Sep. 2025* — Mentor: **Shining Liang**  
 
 **Research Intern**, University of Virginia (Remote)  
-*Jun. 2024 – Feb. 2025*  
-Advisor: Prof. **Yu Meng**
+*Jun. 2024 – Feb. 2025* — Advisor: Prof. **Yu Meng**  
 
 **Research Assistant**, South China Agricultural University  
-*Apr. 2022 – May 2024*  
-Advisors: Associate Profs. **Peijie Huang** and **Yuhong Xu**
+*Apr. 2022 – May 2024* — Advisors: Assoc. Profs. **Peijie Huang**, **Yuhong Xu**  
 
 ---
 
@@ -57,10 +74,10 @@ Advisors: Associate Profs. **Peijie Huang** and **Yuhong Xu**
 
 ### LLM for Language Understanding & SLU  
 - **Shangjian Yin**, Peijie Huang, Yuhong Xu, Haojing Huang, Jiatian Chen.  
-  *ECLM: Entity-Level Large Language Model for Spoken Language Understanding with Chain of Intent*. **ACL’25**  
+  *ECLM: Entity-Level LLM for SLU with Chain of Intent*. **ACL’25**  
 
 - **Shangjian Yin**, Peijie Huang, Yuhong Xu.  
-  *MIDLM: Multi-Intent Detection with Bidirectional Large Language Models*. **COLING’25**  
+  *MIDLM: Multi-Intent Detection with Bidirectional LLMs*. **COLING’25**  
 
 - **Shangjian Yin**, Peijie Huang, Yuhong Xu.  
   *Uni-MIS: United Multiple Intent SLU via Multi-View Intent-Slot Interaction*. **AAAI’24**  
@@ -72,7 +89,7 @@ Advisors: Associate Profs. **Peijie Huang** and **Yuhong Xu**
   *ELSF: Entity-Level Slot Filling Framework for Joint Multiple Intent Detection and Slot Filling*. **TASLP’24**  
 
 - Qianer Li, Peijie Huang, Yuhong Xu, Jiawei Chen, Yuyang Deng, **Shangjian Yin**.  
-  *Generating and Encouraging: An Effective Framework for Solving Class Imbalance in Multimodal Emotion Recognition Conversation*. **EAAI’24**  
+  *Generating and Encouraging: An Effective Framework for Class Imbalance in Multimodal Emotion Recognition*. **EAAI’24**  
 
 ---
 
