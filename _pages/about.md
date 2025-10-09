@@ -63,14 +63,20 @@ My current research interests include:
 # 📝 Publications  
 
 ### LLM Alignment & Effective Data Synthesis  
-- **Shangjian Yin**, Shining Liang, Wenbiao Ding, Yuli Qian, Zhouxing Shi, Honghli Li, Yutao Xie.  
-  *PIKA: Expert-Level Synthetic Datasets for Post-Training Alignment from Scratch*. **Under Review, 2025**  
 
 - **Shangjian Yin**, Shining Liang, Wenbiao Ding, Yuli Qian, Zhouxing Shi, Honghli Li, Yutao Xie.  
-  *WorldAlignment: Benchmarking Expert-Level Human Preference Alignment across Domains and Aspects*. **Under Review, 2025**  
+  ***PIKA: Expert-Level Synthetic Datasets for Post-Training Alignment from Scratch***.  
+  **Preprint, 2025**  
+  📄 [arXiv](https://arxiv.org/abs/2510.06670) | 💻 [Code](https://github.com/SJY8460/PiKa)
+
+- **Shangjian Yin**, Shining Liang, Wenbiao Ding, Yuli Qian, Zhouxing Shi, Honghli Li, Yutao Xie.  
+  ***WorldAlignment: Benchmarking Expert-Level Human Preference Alignment across Domains and Aspects***.  
+  **Under Review, 2025**
 
 - **Shangjian Yin**, Zhepei Wei, Xinyu Zhu, Wei-Lin Chen, Yu Meng.  
-  *Align Large Language Model with Human Preference via Extremely Self-Synthetic Data*. **Under Review, 2025**  
+  ***Align Large Language Model with Human Preference via Extremely Self-Synthetic Data***.  
+  **Preprint, 2025**  
+  📄 [arXiv](https://arxiv.org/abs/2510.06652) | 💻 [Code](https://github.com/SJY8460/SAO)
 
 ### LLM for Language Understanding & SLU  
 - **Shangjian Yin**, Peijie Huang, Yuhong Xu, Haojing Huang, Jiatian Chen.  
