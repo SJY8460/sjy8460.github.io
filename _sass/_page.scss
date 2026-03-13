@@ -287,7 +287,7 @@
 }
 
 .home-landing {
-  max-width: 44rem;
+  max-width: 48rem;
   margin: 0 auto 2.5rem;
   font-family: "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
@@ -311,12 +311,12 @@
 
 .home-intro__grid {
   display: grid;
-  gap: 1.1rem;
+  gap: 1.15rem;
   align-items: center;
 }
 
 .home-intro__copy {
-  max-width: 23.5rem;
+  max-width: 26.25rem;
 }
 
 .home-intro__name {
@@ -365,19 +365,20 @@
 
 .home-intro__photo-wrap {
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
-  text-align: center;
+  text-align: left;
   padding-top: 0;
 }
 
 .home-intro__photo {
   display: block;
-  width: min(12.6rem, 100%);
+  width: min(14.8rem, 100%);
   aspect-ratio: 1 / 1;
-  margin: 0 auto;
+  margin: 0;
   border-radius: 50%;
   object-fit: cover;
+  box-shadow: 0 10px 26px rgba(#000, 0.055);
 }
 
 .home-section {
@@ -454,7 +455,7 @@
 
 @include breakpoint($medium) {
   .home-intro__grid {
-    grid-template-columns: minmax(0, 1.12fr) minmax(10.8rem, 0.78fr);
+    grid-template-columns: minmax(0, 1.24fr) minmax(13.8rem, 0.88fr);
   }
 }
 
@@ -480,11 +481,12 @@
 
   .home-intro__photo-wrap {
     justify-content: center;
+    text-align: center;
     padding-top: 0;
   }
 
   .home-intro__photo {
-    width: min(12.5rem, 100%);
+    width: min(13rem, 100%);
     margin: 0 auto;
   }
 
