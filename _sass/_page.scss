@@ -287,7 +287,7 @@
 }
 
 .home-landing {
-  max-width: 60rem;
+  max-width: 68rem;
   margin: 0 auto 2.5rem;
   font-family: "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
@@ -459,6 +459,11 @@
 }
 
 @include breakpoint($medium) {
+  .home-landing {
+    transform: scale(0.84);
+    transform-origin: top center;
+  }
+
   .home-intro__grid {
     grid-template-columns: minmax(0, 1.7fr) minmax(15rem, 1fr);
   }
