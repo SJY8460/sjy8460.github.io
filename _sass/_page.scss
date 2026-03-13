@@ -287,8 +287,8 @@
 }
 
 .home-landing {
-  max-width: 48rem;
-  margin: 0 auto 2.8rem;
+  max-width: 44rem;
+  margin: 0 auto 2.5rem;
   font-family: "Avenir Next", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
   h2 {
@@ -306,23 +306,23 @@
 }
 
 .home-intro {
-  margin-bottom: 2rem;
+  margin-bottom: 1.8rem;
 }
 
 .home-intro__grid {
   display: grid;
   gap: 1.1rem;
-  align-items: start;
+  align-items: center;
 }
 
 .home-intro__copy {
-  max-width: 24.75rem;
+  max-width: 23.5rem;
 }
 
 .home-intro__name {
   margin: 0 0 0.7rem;
   text-align: center;
-  font-size: 1.62rem;
+  font-size: 1.72rem;
   font-weight: 500;
   line-height: 1.05;
   letter-spacing: -0.03em;
@@ -330,8 +330,8 @@
 
 .home-intro__summary {
   margin: 0 0 0.82rem;
-  font-size: 0.66rem;
-  line-height: 1.58;
+  font-size: 0.72rem;
+  line-height: 1.56;
   text-align: left;
 }
 
@@ -342,7 +342,7 @@
   justify-content: center;
   gap: 0.22rem 0.45rem;
   margin: 0.05rem 0 0;
-  font-size: 0.64rem;
+  font-size: 0.68rem;
 }
 
 .home-links a {
@@ -365,22 +365,23 @@
 
 .home-intro__photo-wrap {
   display: flex;
-  justify-content: flex-start;
-  text-align: left;
-  padding-top: 0.35rem;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding-top: 0;
 }
 
 .home-intro__photo {
   display: block;
-  width: min(13.6rem, 100%);
+  width: min(12.6rem, 100%);
   aspect-ratio: 1 / 1;
-  margin: 0;
+  margin: 0 auto;
   border-radius: 50%;
   object-fit: cover;
 }
 
 .home-section {
-  margin-top: 1.55rem;
+  margin-top: 1.4rem;
 }
 
 .home-news {
@@ -453,7 +454,7 @@
 
 @include breakpoint($medium) {
   .home-intro__grid {
-    grid-template-columns: minmax(0, 1.22fr) minmax(11.8rem, 0.82fr);
+    grid-template-columns: minmax(0, 1.12fr) minmax(10.8rem, 0.78fr);
   }
 }
 
