@@ -1,16 +1,8 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
-author_profile: true
+author_profile: false
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+A selected list of research appears on the homepage. For a complete publication list, please see my [Google Scholar]({{ site.author.googlescholar }}) profile or [CV]({{ '/files/CV_PhD.pdf' | relative_url }}).

@@ -1,10 +1,10 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+You can view my current CV [here]({{ '/files/CV_PhD.pdf' | relative_url }}).
